@@ -1,9 +1,11 @@
-# Learn C
+<h1 align="center">
+    Learn C - Boilerplate
+</h1>
 
-Boilerplate project for developing algorithms in C.
+## 📜 Description
+Boilerplate project for studying algorithms in C.
 
-# It will deliver to you:
-
-- Debugging made easy with VSCode;
+## ⏩ Made easy for you start coding:
+- Debugging with VSCode;
 - Automatic build with Makefile;
 - Version control with Git;
